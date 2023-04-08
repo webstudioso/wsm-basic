@@ -1,6 +1,6 @@
  # Webstudio Basic Module
 
-This module adds basic blocks such as image, video, iframe, text to the `Webstudio` editor
+This module adds basic blocks such as image, video, iframe, text to the [Webstudio](https://webstudio.so) editor
 
  ![Webstudio Module Basic](https://github.com/webstudioso/wsm-basic/actions/workflows/production.yml/badge.svg)
 
